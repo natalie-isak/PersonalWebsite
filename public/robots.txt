@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://natalie.tamid.com/sitemap.xml
+Host: https://natalie.tamid.com
