@@ -8,7 +8,7 @@ const prismColors = {
   green: `#e1ad01`,
   yellow: `#ffd580`,
   orange: `#ffae57`,
-  red: `#ef6b73`,
+  red: `#e1ad01`,
   grey: `#a2aabc`,
   comment: `#8695b799`,
 };

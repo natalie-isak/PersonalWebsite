@@ -22,7 +22,7 @@ module.exports = {
       url: '/#jobs',
     },
     {
-      name: 'Work',
+      name: 'Previous Projects',
       url: '/#projects',
     },
     {
@@ -32,7 +32,7 @@ module.exports = {
   ],
 
   colors: {
-    green: '#e1ad01',
+    green: '#e15301',
     navy: '#0a192f',
     darkNavy: '#020c1b',
   },

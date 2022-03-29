@@ -7,17 +7,17 @@ const GlobalStyle = createGlobalStyle`
   ${Fonts};
 
   :root {
-    --dark-navy: #020c1b;
-    --navy: #0a192f;
-    --light-navy: #112240;
-    --lightest-navy: #233554;
-    --navy-shadow: rgba(2, 12, 27, 0.7);
-    --slate: #8892b0;
-    --light-slate: #a8b2d1;
-    --lightest-slate: #ccd6f6;
+    --dark-navy: #ebd0be;
+    --navy: #ebd0be;
+    --light-navy: #ebc2a7;
+    --lightest-navy: #4d4c4c;
+    --navy-shadow: #8c8989;
+    --slate: #595959;
+    --light-slate: #595959;
+    --lightest-slate: #595959;
     --white: #e6f1ff;
-    --green: #e1ad01;
-    --green-tint: rgba(100, 255, 218, 0.1);
+    --green: #b84900;
+    --green-tint: #e6f1ff;
 
     --font-sans: 'Calibre', 'San Francisco', 'SF Pro Text', -apple-system, system-ui, sans-serif;
     --font-mono: 'SF Mono', 'Fira Code', 'Fira Mono', 'Roboto Mono', monospace;
