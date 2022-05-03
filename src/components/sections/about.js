@@ -138,10 +138,11 @@ const About = () => {
     'Java',
     'Python',
     'OCaml',
+    'Coq',
     'Golang',
     'SQL',
     'Git',
-    'Tableau',
+    'Tableau'
   ];
 
   return (
@@ -160,7 +161,8 @@ const About = () => {
               solutions. To me, being a computer science major means I can use my <b>passion</b> for
               programming to create world-changing technology. </p>
               
-              <p>I have experience in machine learning, computer vision, data warehouse architecture, and backend engineering.
+              <p>I have experience in machine learning, computer vision, data warehouse architecture, networking, 
+                compilers, theoretical cryptography, and backend engineering.
             </p>
 
             <p>I am proficient in:</p>
