@@ -8,5 +8,5 @@ url: 'https://microsoft.com/'
 ---
 
 - Designed a new feature to set and reset the presence status for a new PSTN endpoint within
-the Intelligent Conversation and Communications Cloud team
+  the Intelligent Conversation and Communications Cloud team
 - Implemented and tested the E2E API integration of this feature

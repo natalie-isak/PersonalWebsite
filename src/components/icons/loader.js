@@ -1,5 +1,5 @@
 import React from 'react';
-import { IconLogo } from '@components/icons';
+// import { IconLogo } from '@components/icons';
 
 const IconLoader = () => (
   <svg id="logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
@@ -23,7 +23,7 @@ const IconLoader = () => (
                   L 50, 195
                   L 50, 95 z"
     />
-  </svg >
+  </svg>
 );
 
 export default IconLoader;

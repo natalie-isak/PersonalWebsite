@@ -9,4 +9,3 @@ url: 'https://www.havashealthandyou.com/'
 
 - Optimized the business card creation process by building a request/approval form in the IT services site using HTML andC#
 - Imaged, backed up, and troubleshot PCs and Macs
-

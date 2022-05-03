@@ -11,4 +11,3 @@ url: 'https://uber.com/'
 - Implemented the fuzzy matching library in Uber’s code base
 - Wrote extensive, configurable integration tests in Golang
 - Developed a new SOS feature in a hackathon with 3 other interns
-

@@ -3,7 +3,7 @@ import { CSSTransition, TransitionGroup } from 'react-transition-group';
 import styled from 'styled-components';
 import { email } from '@config';
 import { navDelay, loaderDelay } from '@utils';
-import word from './word-cloud.png'; 
+import word from './word-cloud.png';
 
 const StyledHeroSection = styled.section`
   ${({ theme }) => theme.mixins.flexCenter};
@@ -50,7 +50,7 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Natalie Isak.</h2>;
-  const three = <img src={word}/>; 
+  const three = <img src={word} />;
   const five = (
     <a href={`mailto:${email}`} className="email-link">
       Get In Touch
@@ -70,8 +70,6 @@ const Hero = () => {
           ))}
       </TransitionGroup>
     </StyledHeroSection>
-
-  
   );
 };
 

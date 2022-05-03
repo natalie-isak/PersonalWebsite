@@ -22,7 +22,7 @@ const IconLogo = () => (
                   L 50, 195
                   L 50, 95 z"
     />
-  </svg >
+  </svg>
 );
 
 export default IconLogo;

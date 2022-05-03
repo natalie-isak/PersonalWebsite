@@ -5,7 +5,7 @@ cover: './img.png'
 github: 'https://github.com/natalieisak/Database_Management_System'
 tech:
   - Ocaml
-  - RSA Encryption 
+  - RSA Encryption
 showInProjects: true
 ---
 
@@ -15,4 +15,4 @@ read/add/delete rows/columns, encrypt/decrypt the csv, create scatter plots base
 rows within the CSV, generate variables, change the data file through multiplication/addition,
 perform functions like mean/median/mode/standard deviation/variance on the data file or
 variables, and perform statistical analysis on our data. Additionally, it updates the current file as
-functions are performed on it and saves the current file. Specifically, I implemented the Rep_ok function, RSA encryption/decryption, and documenting/testing corresponding additions. 
+functions are performed on it and saves the current file. Specifically, I implemented the Rep_ok function, RSA encryption/decryption, and documenting/testing corresponding additions.

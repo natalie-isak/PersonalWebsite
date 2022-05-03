@@ -8,5 +8,5 @@ url: 'https://https://github.com/cornell-netlab/'
 ---
 
 - Collaborated with a team of researchers to standardize networking processes using OCaml
-- Composed a pretty printer from Petr4 to Stdout 
+- Composed a pretty printer from Petr4 to Stdout
 - Designed and wrote a compiler from Petr4 to C

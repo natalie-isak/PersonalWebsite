@@ -132,7 +132,17 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript', 'HTML & CSS', 'Java', 'Python', 'OCaml', 'Golang', 'SQL', 'Git', 'Tableau'];
+  const skills = [
+    'JavaScript',
+    'HTML & CSS',
+    'Java',
+    'Python',
+    'OCaml',
+    'Golang',
+    'SQL',
+    'Git',
+    'Tableau',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -141,16 +151,15 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Hello! I'm Natalie Isak, a student at Cornell University.</p>
+            <p>Hello! My name is Natalie Isak, a student at Cornell University.</p>
 
             <p>
-              I love computer science because I have been creative from a young age,
-              and I believe that coding is the ideal combination between logic and
-              innovation. I find it empowering to identify problems around me and
-              come up with practical, accessible solutions. To me, being a computer
-              science major means I can use my passion for programming to create
-              world-changing technology. I have experience in machine learning,
-              computer vision, data warehouse architecture, and backend engineering.
+              I love computer science because I have been creative from a young age, and I believe
+              that coding is the ideal combination between logic and innovation. I find it
+              empowering to identify problems around me and come up with practical, accessible
+              solutions. To me, being a computer science major means I can use my passion for
+              programming to create world-changing technology. I have experience in machine
+              learning, computer vision, data warehouse architecture, and backend engineering.
             </p>
 
             <p>Here are the tools/languages I am proficient in:</p>

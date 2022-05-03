@@ -162,11 +162,7 @@ const ArchivePage = ({ location, data }) => {
             <tbody>
               {projects.length > 0 &&
                 projects.map(({ node }, i) => {
-                  const {
-                    title,
-                    tech,
-                    external,
-                  } = node.frontmatter;
+                  const { title, tech, external } = node.frontmatter;
                   return (
                     <tr key={i} ref={el => (revealProjects.current[i] = el)}>
                       <td className="title">{title}</td>
