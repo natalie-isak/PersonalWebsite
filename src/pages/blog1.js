@@ -154,7 +154,7 @@ const ArchivePage = ({ location }) => {
             {' '}
             The “trolley problem” is an age-old philosophical conundrum that encapsulates the core
             of philosophical debate: is it more moral to do a bad thing or to let a worse thing
-            happen?<br></br>
+            happen?<br></br><br></br>
             Pippa Foot first proposed this thought experiment in 1967, and at the time it was just
             that: a thought experiment. Today, however, this situation is far from hypothetical. The
             traditional “trolley problem” begins like so: a person is driving a trolley on a track
@@ -162,7 +162,7 @@ const ArchivePage = ({ location }) => {
             can either continue driving and let the five workers in the way die, or s/he can shift
             the train’s direction to the right and kill only one worker. Overall, this predicament
             is meant to showcase the core difference between utilitarian and deontological
-            philosophies.<br></br>
+            philosophies.<br></br><br></br>
             In this situation, a deontologist would argue that one ought to let the five people die
             rather than kill one person. Deontologists believe that the morality of an action can be
             determined by analyzing the intention, rather than the consequence, of the action in
@@ -172,7 +172,7 @@ const ArchivePage = ({ location }) => {
             one person as a means to an end. In other words, even if the end state of the action is
             favorable, it cannot be justified if it requires compromising the autonomy -- or freedom
             -- of another.
-            <br></br>On the other hand, a utilitarian would argue that the agent should always
+            <br></br><br></br>On the other hand, a utilitarian would argue that the agent should always
             choose to kill one person die to save five. Utilitarianism is the philosophical belief
             that a moral action must maximize utility, or in other words, maximize pleasure. This
             theory only accounts for the consequences of actions, and therefore a utilitarian would
@@ -181,12 +181,12 @@ const ArchivePage = ({ location }) => {
             -- one dead versus five dead -- would be morally relevant. Thus, a utilitarian would
             choose to turn the trolly right in order to maximize lives. Utilitarians believe this
             would be the morally correct course of action since the actor is maximizing life, and
-            therefore happiness, for the greatest number of people. <br></br>Today, if you replace
+            therefore happiness, for the greatest number of people. <br></br><br></br>Today, if you replace
             “trolley” with “self-driving car,” you have one of the largest moral dilemmas facing
             companies such as GM and Ford. In the future, it will be programmers, not drivers,
             making life-or-death decisions. For example, if the brakes fail, should the car continue
             driving and hit five pedestrians? Or should it swerve, thereby killing the passenger?
-            <br></br>I believe that given the unreliability and novelty of self-driving cars, one
+            <br></br><br></br>I believe that given the unreliability and novelty of self-driving cars, one
             must refrain from purely deontological or consequentialist logic and always air on the
             side of killing the passenger, or passengers. The technology for self-driving cars is
             relatively new, and therefore it will take years before self-driving cars gain the full
@@ -195,7 +195,7 @@ const ArchivePage = ({ location }) => {
             the general population. Pedestrians, for instance, never consented to having
             self-driving cars. Thus, it would be immoral to have them pay the fatal consequences of
             self-driving cars.
-            <br></br>However, the people inside the self-driving cars did consent to the dangers of
+            <br></br><br></br>However, the people inside the self-driving cars did consent to the dangers of
             riding in a self-driving car, and therefore, it would be more acceptable to have them
             suffer the consequences. This view is largely in accordance with the belief that
             negative duties outweigh positive duties. Meaning, self-driving cars have a larger duty
@@ -203,7 +203,7 @@ const ArchivePage = ({ location }) => {
             utilitarian situation, even if it would be possible to swerve to save five passengers
             and kill one pedestrian, it would be immoral to do so given the negative duty not to
             harm the pedestrian.
-            <br></br>Conversely, in a deontological situation, if the car had the option of steering
+            <br></br><br></br>Conversely, in a deontological situation, if the car had the option of steering
             to save five passengers or staying on track to kill one pedestrian, a deontologist would
             argue it is best to stay on track and kill one pedestrian. However, in the context of
             self-driving cars, it would be morally preferable to swerve the car and kill the five
@@ -212,7 +212,7 @@ const ArchivePage = ({ location }) => {
             on the self-driving car business. Despite the allure of traditional approaches, however,
             it is ultimately infeasible to approach this issue from a purely deontological or
             utilitarian perspective.
-            <br></br>Until companies gain the trust and respect of the public, the self-driving car
+            <br></br><br></br>Until companies gain the trust and respect of the public, the self-driving car
             business ought to continue to have customers themselves bear the potential consequences.
           </p>
         </body>
