@@ -3,7 +3,7 @@ date: '2020-09-01'
 title: 'Undergraduate Researcher'
 company: 'Cornell Netlab'
 location: 'Ithaca, NY'
-range: "Sept '20 - Present"
+range: "Sept '20 - May '22"
 url: 'https://https://github.com/cornell-netlab/'
 ---
 

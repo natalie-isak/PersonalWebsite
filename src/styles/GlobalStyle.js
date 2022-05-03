@@ -15,7 +15,7 @@ const GlobalStyle = createGlobalStyle`
     --slate: #595959;
     --light-slate: #595959;
     --lightest-slate: #595959;
-    --white: #e6f1ff;
+    --white: #ebd0be;
     --green: #b84900;
     --green-tint: #e6f1ff;
 

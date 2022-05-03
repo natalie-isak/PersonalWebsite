@@ -3,7 +3,7 @@ date: '2020-01-01'
 title: 'Head Consultant'
 company: 'Cornell University'
 location: 'Ithaca, NY'
-range: "Jan '19 - Present"
+range: "Jan '19 - May '22"
 url: 'https://www.cs.cornell.edu/courses/cs1110/2021sp/'
 ---
 
